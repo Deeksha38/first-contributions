@@ -17,6 +17,7 @@
 - [Asiya](https://github.com/Asiyaa22)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
+- [deeksha](https://github.com/Deeksha38)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [Harpreet Singh Sahota](https://github.com/happysahota)
 - [kevin1010607](https://github.com/kevin1010607)
